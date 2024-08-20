@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">
+<!-- <img  width="800" height="400" src="https://github.com/Terabyte17/Terabyte17/blob/master/social/yashs.gif">-->
 </p>
 <h2 align="center">Hello there! My name is Jagrat Gupta but you can call me "Sahil". 👋🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in Computer Science With Data Science from NIET, Greater Noida :student:. I'm passionate about coding, particularly in data structures, algorithms, and Web Development . I have a strong foundation in computer science and hands-on experience with various programming languages. My skills in HTML, CSS, and JavaScript enable me to create responsive and visually appealing web applications. 
