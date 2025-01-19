@@ -57,5 +57,5 @@ Hi! I'm Jagrat Gupta, a 3rd-year Computer Science and Engineering student at NIE
 
 <!-- Profile Views -->
 <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=sahil25123&icon=1&color=0" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=sahil25123&icon=1&color=0" alt="Profile Views" />
 </p>
