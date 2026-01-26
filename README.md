@@ -13,11 +13,13 @@
 ---
 
 <!-- Learning -->
-<h2 align="left">🌱 Currently learning:</h2>
-<p align="left" style="font-size: 14px;">
-• Advanced full-stack development using <strong>MERN stack</strong> to build scalable web apps. <br>
-• Integrating APIs for real-time functionality and cloud deployment.  
-</p>
+## 🌱 Currently Learning (DevOps Focus)
+
+- Dockerizing full-stack applications
+- Using Docker volumes & networks
+- Writing shell scripts for deployment
+- Server security basics (firewall, env vars)
+- CI/CD fundamentals (GitHub Actions – upcoming)
 
 <!-- Highlights -->
 <h2 align="left">✨ Highlights:</h2>
