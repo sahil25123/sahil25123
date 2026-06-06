@@ -13,14 +13,12 @@
 ---
 
 <!-- Learning -->
-## 🌱 Currently Learning (DevOps Focus)
+## ✨ Experience Highlights
 
-- Dockerizing full-stack applications
-- Using Docker volumes & networks
-- Writing shell scripts for deployment
-- Server security basics (firewall, env vars)
-- CI/CD fundamentals (GitHub Actions – upcoming)
-
+• Integration & Customization Intern @ Exotel
+• Built Leave Management System for IIT Delhi
+• Developed Social Media platform (Full-stack MERN Application)
+• Smart India Hackathon 2024 Participant
 <!-- Highlights -->
 <h2 align="left">✨ Highlights:</h2>
 <p align="left" style="font-size: 14px;">
@@ -28,10 +26,11 @@
 • <strong>Geeks for Geeks Hackathon:</strong> Developed a telemedicine platform named HealthLine. <br>
 
 <!-- Collaboration Interests -->
-### 👯 Open to Collaborate On:
-- Full-stack web development projects (MERN stack).
-- AI/ML integration into real-world applications.
-- Open-source projects that drive meaningful social impact.
+### 👯 Open to Collaborate On
+- Backend & API Development
+- System Integration Projects
+- Linux & DevOps Learning Projects
+- Full-Stack Web Applications
 
 ---
 
@@ -66,7 +65,7 @@
 <!-- Let's Connect -->
 ### 🌐 Let's Connect:
 <p align="center">
-    <a href="https://linkedin.com/in/sahil-gupta25" target="_blank">
+    <a href="https://www.linkedin.com/in/jagrat25123" target="_blank">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:sahilgupta25123@gmail.com" target="_blank">
